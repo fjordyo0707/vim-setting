@@ -32,7 +32,7 @@ My Unix setting
 
 #### Copy Paste on WSL
 * Install vim-gtk
-* [vim copy in wsl](https://superuser.com/questions/1291425/windows-subsystem-linux-make-vim-use-the-clipboard)
+* [vim copy in wsl](https://superuser.com/a/1345241)
 
 #### Nerdtree
 * ### Usage
