@@ -10,7 +10,6 @@ My Unix setting
 * `Ctrl + w`: delete the word
 
 ## Vim
-
 #### Comment
 1. Go to the first line you want to comment, press **Ctrl+V**. This will put the editor in the **VISUAL BLOCK** mode.
 2. Use the arrow key and select until the last line
@@ -32,6 +31,7 @@ My Unix setting
 > 除了可以替換輸入的字串，更可以設定搜尋時，略過英文大小寫的差異，以下對 “search_from” 及 “SEARCH_FROM” 同樣匹配：
 
 #### Copy Paste on WSL
+* Install vim-gtk
 * [vim copy in wsl](https://superuser.com/questions/1291425/windows-subsystem-linux-make-vim-use-the-clipboard)
 
 #### Nerdtree
