@@ -116,4 +116,5 @@ if ! shopt -oq posix; then
   fi
 fi
 
+# For tmux copy/paste
 export DISPLAY=localhost:0.0
