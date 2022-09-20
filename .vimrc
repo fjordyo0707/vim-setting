@@ -82,3 +82,7 @@ set nu
 nnoremap <silent> <F5> :NERDTree<CR>
 
 set encoding=utf-8
+
+# For tmux copy/paste
+set clipboard=unnamedplus
+
